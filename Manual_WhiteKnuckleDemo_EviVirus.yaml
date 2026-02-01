@@ -1,0 +1,8 @@
+name: EviVirus
+description: Default template created by the Manual Builder tool
+
+game: Manual_WhiteKnuckleDemo_EviVirus
+
+Manual_WhiteKnuckleDemo_EviVirus:
+    progression_balancing: 50
+    accessibility: items
